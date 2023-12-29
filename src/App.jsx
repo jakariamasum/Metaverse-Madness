@@ -1,10 +1,12 @@
 import './App.css'
+import Banner from './components/Banner/Banner'
 
 function App() {
 
   return (
-    <div className='text-red-500'>
+    <div className='text-white'>
       hello
+      <Banner/>
     </div>
   )
 }

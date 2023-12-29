@@ -1,8 +1,8 @@
 #root {
-  max-width: 1280px;
   margin: 0 auto;
   padding: 2rem;
   text-align: center;
+  background-color: black;
 }
 
 .logo {
@@ -16,6 +16,9 @@
 }
 .logo.react:hover {
   filter: drop-shadow(0 0 2em #61dafbaa);
+}
+.hero-gradient {
+  background: linear-gradient(97.86deg,#a509ff,#34acc7 53.65%,#a134c7);
 }
 
 @keyframes logo-spin {
