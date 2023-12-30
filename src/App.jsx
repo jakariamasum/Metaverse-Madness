@@ -10,11 +10,11 @@ function App() {
   return (
     <div className='text-white px-28'>
       hello
-      <Banner/>
-      <About/>
-      <HowWorks/>
-      <Track/>
-      <Insight/>
+      <Banner />
+      <About />
+      <HowWorks />
+      <Track />
+      <Insight />
     </div>
   )
 }
